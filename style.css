@@ -1,0 +1,11 @@
+.mytable {
+    display:table;
+}
+
+.mytablerow {
+    display:table-row;
+}
+
+.mytablecell {
+    display:table-cell;
+}
