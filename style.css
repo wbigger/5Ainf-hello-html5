@@ -1,9 +1,17 @@
 .mytable {
     display:table;
+    width:70%;
 }
 
 .mytablerow {
     display:table-row;
+}
+
+.mytableheadercell {
+    display:table-cell;
+    border-bottom: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: gray;
 }
 
 .mytablecell {
